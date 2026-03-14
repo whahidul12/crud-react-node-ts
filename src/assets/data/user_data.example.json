@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Alice Johnson",
     "email": "alice.johnson@example.com",
-    "job": "Frontend Developer",
+    "designation": "Frontend Developer",
     "image": "https://i.pravatar.cc/150?u=1",
     "address": "123 Maple St, Springfield, IL",
     "isActive": true
@@ -12,7 +12,7 @@
     "id": 2,
     "name": "Marcus Chen",
     "email": "marcus.chen@techcorp.io",
-    "job": "UI/UX Designer",
+    "designation": "UI/UX Designer",
     "image": "https://i.pravatar.cc/150?u=2",
     "address": "456 Oak Ave, San Francisco, CA",
     "isActive": false
@@ -21,7 +21,7 @@
     "id": 3,
     "name": "Sarah Williams",
     "email": "s.williams@freelance.com",
-    "job": "Content Strategist",
+    "designation": "Content Strategist",
     "image": "https://i.pravatar.cc/150?u=3",
     "address": "789 Pine Rd, Austin, TX",
     "isActive": true
@@ -30,7 +30,7 @@
     "id": 4,
     "name": "David Smith",
     "email": "dsmith@webdev.net",
-    "job": "Backend Engineer",
+    "designation": "Backend Engineer",
     "image": "https://i.pravatar.cc/150?u=4",
     "address": "101 Cedar Ln, Seattle, WA",
     "isActive": true
@@ -39,7 +39,7 @@
     "id": 5,
     "name": "Elena Rodriguez",
     "email": "elena.rod@studio.com",
-    "job": "Creative Director",
+    "designation": "Creative Director",
     "image": "https://i.pravatar.cc/150?u=5",
     "address": "202 Birch Blvd, Miami, FL",
     "isActive": false
@@ -48,7 +48,7 @@
     "id": 6,
     "name": "James Wilson",
     "email": "j.wilson@datahub.org",
-    "job": "Data Scientist",
+    "designation": "Data Scientist",
     "image": "https://i.pravatar.cc/150?u=6",
     "address": "303 Elm St, Boston, MA",
     "isActive": true
@@ -57,7 +57,7 @@
     "id": 7,
     "name": "Maya Patel",
     "email": "mpatel@marketing.com",
-    "job": "SEO Specialist",
+    "designation": "SEO Specialist",
     "image": "https://i.pravatar.cc/150?u=7",
     "address": "404 Walnut Dr, Denver, CO",
     "isActive": true
@@ -66,7 +66,7 @@
     "id": 8,
     "name": "Liam O'Connor",
     "email": "liam.oc@cybersec.io",
-    "job": "Security Analyst",
+    "designation": "Security Analyst",
     "image": "https://i.pravatar.cc/150?u=8",
     "address": "505 Willow Way, Portland, OR",
     "isActive": false
@@ -75,7 +75,7 @@
     "id": 9,
     "name": "Chloe Davis",
     "email": "chloe.d@vibe.com",
-    "job": "Social Media Manager",
+    "designation": "Social Media Manager",
     "image": "https://i.pravatar.cc/150?u=9",
     "address": "606 Cherry Ct, Nashville, TN",
     "isActive": true
@@ -84,7 +84,7 @@
     "id": 10,
     "name": "Noah Kim",
     "email": "nkim@startup.co",
-    "job": "Fullstack Developer",
+    "designation": "Fullstack Developer",
     "image": "https://i.pravatar.cc/150?u=10",
     "address": "707 Spruce St, Atlanta, GA",
     "isActive": true
@@ -93,7 +93,7 @@
     "id": 11,
     "name": "Olivia Brown",
     "email": "olivia.b@design.com",
-    "job": "Illustrator",
+    "designation": "Illustrator",
     "image": "https://i.pravatar.cc/150?u=11",
     "address": "808 Aspen Dr, Phoenix, AZ",
     "isActive": false
@@ -102,7 +102,7 @@
     "id": 12,
     "name": "Ethan Wright",
     "email": "ewright@fintech.com",
-    "job": "Product Manager",
+    "designation": "Product Manager",
     "image": "https://i.pravatar.cc/150?u=12",
     "address": "909 Poplar Rd, Charlotte, NC",
     "isActive": true
@@ -111,7 +111,7 @@
     "id": 13,
     "name": "Sophia Garcia",
     "email": "s.garcia@cloud.net",
-    "job": "DevOps Engineer",
+    "designation": "DevOps Engineer",
     "image": "https://i.pravatar.cc/150?u=13",
     "address": "111 Redwood Ln, Salt Lake City, UT",
     "isActive": true
@@ -120,7 +120,7 @@
     "id": 14,
     "name": "Lucas Miller",
     "email": "lmiller@agency.com",
-    "job": "Copywriter",
+    "designation": "Copywriter",
     "image": "https://i.pravatar.cc/150?u=14",
     "address": "222 Juniper St, Minneapolis, MN",
     "isActive": false
@@ -129,7 +129,7 @@
     "id": 15,
     "name": "Isabella Martinez",
     "email": "isa.martinez@app.io",
-    "job": "Mobile Developer",
+    "designation": "Mobile Developer",
     "image": "https://i.pravatar.cc/150?u=15",
     "address": "333 Hickory Ave, San Diego, CA",
     "isActive": true
@@ -138,7 +138,7 @@
     "id": 16,
     "name": "Mason Taylor",
     "email": "m.taylor@growth.com",
-    "job": "Sales Lead",
+    "designation": "Sales Lead",
     "image": "https://i.pravatar.cc/150?u=16",
     "address": "444 Alder Dr, Dallas, TX",
     "isActive": true
@@ -147,7 +147,7 @@
     "id": 17,
     "name": "Mia Anderson",
     "email": "mia.a@support.com",
-    "job": "Customer Success",
+    "designation": "Customer Success",
     "image": "https://i.pravatar.cc/150?u=17",
     "address": "555 Sycamore Pl, Columbus, OH",
     "isActive": false
@@ -156,7 +156,7 @@
     "id": 18,
     "name": "Jacob Thomas",
     "email": "jthomas@build.net",
-    "job": "QA Engineer",
+    "designation": "QA Engineer",
     "image": "https://i.pravatar.cc/150?u=18",
     "address": "666 Laurel St, Philadelphia, PA",
     "isActive": true
@@ -165,7 +165,7 @@
     "id": 19,
     "name": "Amelia White",
     "email": "awhite@hr-tech.com",
-    "job": "HR Specialist",
+    "designation": "HR Specialist",
     "image": "https://i.pravatar.cc/150?u=19",
     "address": "777 Magnolia Blvd, Houston, TX",
     "isActive": true
@@ -174,7 +174,7 @@
     "id": 20,
     "name": "Logan Harris",
     "email": "lharris@network.io",
-    "job": "Systems Architect",
+    "designation": "Systems Architect",
     "image": "https://i.pravatar.cc/150?u=20",
     "address": "888 Cypress Rd, Las Vegas, NV",
     "isActive": false
@@ -183,7 +183,7 @@
     "id": 21,
     "name": "Harper Lewis",
     "email": "h.lewis@legal.com",
-    "job": "Legal Consultant",
+    "designation": "Legal Consultant",
     "image": "https://i.pravatar.cc/150?u=21",
     "address": "999 Palm Dr, Orlando, FL",
     "isActive": true
@@ -192,7 +192,7 @@
     "id": 22,
     "name": "Sebastian Hall",
     "email": "shall@research.edu",
-    "job": "Research Scientist",
+    "designation": "Research Scientist",
     "image": "https://i.pravatar.cc/150?u=22",
     "address": "121 Sequoia Ave, Berkeley, CA",
     "isActive": true
@@ -201,7 +201,7 @@
     "id": 23,
     "name": "Evelyn Young",
     "email": "e.young@event.co",
-    "job": "Event Planner",
+    "designation": "Event Planner",
     "image": "https://i.pravatar.cc/150?u=23",
     "address": "232 Dogwood Ln, Richmond, VA",
     "isActive": false
@@ -210,7 +210,7 @@
     "id": 24,
     "name": "Jack King",
     "email": "jking@finances.com",
-    "job": "Accountant",
+    "designation": "Accountant",
     "image": "https://i.pravatar.cc/150?u=24",
     "address": "343 Hemlock St, Hartford, CT",
     "isActive": true
@@ -219,7 +219,7 @@
     "id": 25,
     "name": "Abigail Scott",
     "email": "ascott@fashion.com",
-    "job": "Lead Stylist",
+    "designation": "Lead Stylist",
     "image": "https://i.pravatar.cc/150?u=25",
     "address": "454 Hawthorn Rd, New York, NY",
     "isActive": true
@@ -228,7 +228,7 @@
     "id": 26,
     "name": "Henry Green",
     "email": "hgreen@eco.org",
-    "job": "Environmental Engineer",
+    "designation": "Environmental Engineer",
     "image": "https://i.pravatar.cc/150?u=26",
     "address": "565 Maplewood Dr, Madison, WI",
     "isActive": false
@@ -237,7 +237,7 @@
     "id": 27,
     "name": "Scarlett Adams",
     "email": "sadams@health.com",
-    "job": "Nutritionist",
+    "designation": "Nutritionist",
     "image": "https://i.pravatar.cc/150?u=27",
     "address": "676 Linden Ave, Boulder, CO",
     "isActive": true
@@ -246,7 +246,7 @@
     "id": 28,
     "name": "Leo Baker",
     "email": "lbaker@videoprod.com",
-    "job": "Video Editor",
+    "designation": "Video Editor",
     "image": "https://i.pravatar.cc/150?u=28",
     "address": "787 Boxwood Ct, Burbank, CA",
     "isActive": true
@@ -255,7 +255,7 @@
     "id": 29,
     "name": "Lily Nelson",
     "email": "lnelson@journal.com",
-    "job": "Journalist",
+    "designation": "Journalist",
     "image": "https://i.pravatar.cc/150?u=29",
     "address": "898 Pear St, Washington, DC",
     "isActive": false
@@ -264,7 +264,7 @@
     "id": 30,
     "name": "Wyatt Carter",
     "email": "wcarter@logistics.com",
-    "job": "Operations Manager",
+    "designation": "Operations Manager",
     "image": "https://i.pravatar.cc/150?u=30",
     "address": "909 Ironwood Dr, Detroit, MI",
     "isActive": true

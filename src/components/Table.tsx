@@ -13,15 +13,15 @@ const Table = () => {
   console.log(users);
   return (
     <>
-      <div className="overflow-x-auto">
+      <div className="overflow-x-auto max-w-7xl mx-auto">
         <table className="table">
           <thead>
             <tr>
               <th>ID</th>
               <th>Name</th>
-              <th>Email</th>
-              <th>Address</th>
+              <th>Designation</th>
               <th>Is Active</th>
+              <th>Action</th>
               <th>Action</th>
             </tr>
           </thead>
@@ -39,17 +39,21 @@ const Table = () => {
                     <div className="font-bold">{user.name}</div>
                   </div>
                 </td>
-                <td>{user.email}</td>
-                <td>{user.address}</td>
+                <td>{user.designation}</td>
                 <td>
                   <span
-                    className={`badge ${user.isActive ? "badge-success" : "badge-ghost"}`}
+                    className={`badge ${user.isActive ? "badge-success w-20 py-4" : "badge-outline w-20 py-4 badge-error"}`}
                   >
                     {user.isActive ? "Active" : "Inactive"}
                   </span>
                 </td>
                 <th>
-                  <button className="btn btn-ghost btn-xs">details</button>
+                  <button className="btn btn-info w-24 py-4 btn-sm">View Details</button>
+                </th>
+                <th>
+                  <button className="btn btn-error text-white w-20 py-4 btn-sm">
+                    Delete
+                  </button>
                 </th>
               </tr>
             ))}
