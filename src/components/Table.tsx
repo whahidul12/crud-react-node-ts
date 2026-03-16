@@ -1,5 +1,4 @@
 import { useEffect, useState } from "react";
-import type { User } from "../types/types";
 
 const Table = () => {
   const [users, setUsers] = useState<User[]>();
